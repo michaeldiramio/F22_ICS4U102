@@ -8,7 +8,8 @@ public class Main {
 
 		animals.add(new Cat());
     animals.add(new Eagle());
-
+    animals.add(new Fish());
+    animals.add(new Jellyfish());
 
 		/*for(int i = 0; i < animals.size(); i++) {
 			animals.get(i).makeNoise();
