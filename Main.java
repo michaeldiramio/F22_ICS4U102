@@ -7,6 +7,7 @@ public class Main {
 		ArrayList<Animal> animals = new ArrayList<>();
 
 		animals.add(new Cat());
+    animals.add(new Eagle());
 
 
 		/*for(int i = 0; i < animals.size(); i++) {
