@@ -7,6 +7,7 @@ public class Main {
 		ArrayList<Animal> animals = new ArrayList<>();
 
 		animals.add(new Cat());
+    animals.add(new Dog());
     animals.add(new Eagle());
     animals.add(new Fish());
     animals.add(new Jellyfish());
