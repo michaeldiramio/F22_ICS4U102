@@ -11,6 +11,7 @@ public class Main {
     animals.add(new Fish());
     animals.add(new Jellyfish());
 		animals.add(new Giraffe());
+    animals.add(new Chicken());
 
 		/*for(int i = 0; i < animals.size(); i++) {
 			animals.get(i).makeNoise();
