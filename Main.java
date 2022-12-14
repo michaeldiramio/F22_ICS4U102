@@ -6,6 +6,8 @@ public class Main {
 	public static void main(String[] args) {
 		ArrayList<Animal> animals = new ArrayList<>();
 
+		
+    animals.add(new Bird());
 		animals.add(new Cat());
     animals.add(new Dog());
     animals.add(new Eagle());
